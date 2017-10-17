@@ -1,0 +1,396 @@
+2017-10-16 18:20:15,783 - [INFO] - from org.nd4j.linalg.factory.Nd4jBackend in main
+                
+Loaded [CpuBackend] backend
+
+2017-10-16 18:20:16,163 - [INFO] - from org.nd4j.nativeblas.NativeOpsHolder in main
+                
+Number of threads used for NativeOps: 4
+
+2017-10-16 18:20:16,413 - [INFO] - from org.nd4j.nativeblas.Nd4jBlas in main
+                
+Number of threads used for BLAS: 4
+
+2017-10-16 18:20:16,413 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main
+                
+Backend used: [CPU]; OS: [Windows 10]
+
+2017-10-16 18:20:16,413 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main
+                
+Cores: [8]; Memory: [1.8GB];
+
+2017-10-16 18:20:16,428 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main
+                
+Blas vendor: [OPENBLAS]
+
+2017-10-16 18:20:19,906 - [INFO] - from org.deeplearning4j.nn.multilayer.MultiLayerNetwork in main
+                
+Starting MultiLayerNetwork with WorkspaceModes set to [training: NONE; inference: SEPARATE]
+
+2017-10-16 18:20:21,196 - [INFO] - from org.deeplearning4j.ui.play.PlayUIServer in main
+                
+DL4J UI Server started at http://localhost:9000
+
+2017-10-16 18:20:21,204 - [INFO] - from org.deeplearning4j.ui.play.PlayUIServer in main
+                
+StatsStorage instance attached to UI: InMemoryStatsStorage(uid=2b69ff27)
+
+2017-10-16 18:26:55,705 - [INFO] - from org.nd4j.linalg.factory.Nd4jBackend in main
+                
+Loaded [CpuBackend] backend
+
+2017-10-16 18:26:56,077 - [INFO] - from org.nd4j.nativeblas.NativeOpsHolder in main
+                
+Number of threads used for NativeOps: 4
+
+2017-10-16 18:26:56,327 - [INFO] - from org.nd4j.nativeblas.Nd4jBlas in main
+                
+Number of threads used for BLAS: 4
+
+2017-10-16 18:26:56,327 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main
+                
+Backend used: [CPU]; OS: [Windows 10]
+
+2017-10-16 18:26:56,327 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main
+                
+Cores: [8]; Memory: [1.8GB];
+
+2017-10-16 18:26:56,327 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main
+                
+Blas vendor: [OPENBLAS]
+
+2017-10-16 18:26:59,695 - [INFO] - from org.deeplearning4j.nn.multilayer.MultiLayerNetwork in main
+                
+Starting MultiLayerNetwork with WorkspaceModes set to [training: NONE; inference: SEPARATE]
+
+2017-10-16 18:27:00,852 - [INFO] - from org.deeplearning4j.ui.play.PlayUIServer in main
+                
+DL4J UI Server started at http://localhost:9000
+
+2017-10-16 18:27:00,867 - [INFO] - from org.deeplearning4j.ui.play.PlayUIServer in main
+                
+StatsStorage instance attached to UI: InMemoryStatsStorage(uid=3623d541)
+
+2017-10-16 19:55:49,296 - [INFO] - from org.nd4j.linalg.factory.Nd4jBackend in main
+                
+Loaded [CpuBackend] backend
+
+2017-10-16 19:55:49,671 - [INFO] - from org.nd4j.nativeblas.NativeOpsHolder in main
+                
+Number of threads used for NativeOps: 4
+
+2017-10-16 19:55:49,911 - [INFO] - from org.nd4j.nativeblas.Nd4jBlas in main
+                
+Number of threads used for BLAS: 4
+
+2017-10-16 19:55:49,911 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main
+                
+Backend used: [CPU]; OS: [Windows 10]
+
+2017-10-16 19:55:49,911 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main
+                
+Cores: [8]; Memory: [1.8GB];
+
+2017-10-16 19:55:49,911 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main
+                
+Blas vendor: [OPENBLAS]
+
+2017-10-16 19:55:53,359 - [INFO] - from org.deeplearning4j.nn.multilayer.MultiLayerNetwork in main
+                
+Starting MultiLayerNetwork with WorkspaceModes set to [training: NONE; inference: SEPARATE]
+
+2017-10-16 19:55:54,601 - [INFO] - from org.deeplearning4j.ui.play.PlayUIServer in main
+                
+DL4J UI Server started at http://localhost:9000
+
+2017-10-16 19:55:54,605 - [INFO] - from org.deeplearning4j.ui.play.PlayUIServer in main
+                
+StatsStorage instance attached to UI: InMemoryStatsStorage(uid=9b722aa1)
+
+2017-10-16 19:56:27,944 - [INFO] - from org.nd4j.linalg.factory.Nd4jBackend in main
+                
+Loaded [CpuBackend] backend
+
+2017-10-16 19:56:28,319 - [INFO] - from org.nd4j.nativeblas.NativeOpsHolder in main
+                
+Number of threads used for NativeOps: 4
+
+2017-10-16 19:56:28,554 - [INFO] - from org.nd4j.nativeblas.Nd4jBlas in main
+                
+Number of threads used for BLAS: 4
+
+2017-10-16 19:56:28,554 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main
+                
+Backend used: [CPU]; OS: [Windows 10]
+
+2017-10-16 19:56:28,554 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main
+                
+Cores: [8]; Memory: [1.8GB];
+
+2017-10-16 19:56:28,554 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main
+                
+Blas vendor: [OPENBLAS]
+
+2017-10-16 19:56:31,827 - [INFO] - from org.deeplearning4j.nn.multilayer.MultiLayerNetwork in main
+                
+Starting MultiLayerNetwork with WorkspaceModes set to [training: NONE; inference: SEPARATE]
+
+2017-10-16 19:56:32,999 - [INFO] - from org.deeplearning4j.ui.play.PlayUIServer in main
+                
+DL4J UI Server started at http://localhost:9000
+
+2017-10-16 19:56:33,003 - [INFO] - from org.deeplearning4j.ui.play.PlayUIServer in main
+                
+StatsStorage instance attached to UI: InMemoryStatsStorage(uid=1d26b497)
+
+2017-10-16 19:58:14,530 - [INFO] - from org.nd4j.linalg.factory.Nd4jBackend in main
+                
+Loaded [CpuBackend] backend
+
+2017-10-16 19:58:14,916 - [INFO] - from org.nd4j.nativeblas.NativeOpsHolder in main
+                
+Number of threads used for NativeOps: 4
+
+2017-10-16 19:58:15,140 - [INFO] - from org.nd4j.nativeblas.Nd4jBlas in main
+                
+Number of threads used for BLAS: 4
+
+2017-10-16 19:58:15,156 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main
+                
+Backend used: [CPU]; OS: [Windows 10]
+
+2017-10-16 19:58:15,156 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main
+                
+Cores: [8]; Memory: [1.8GB];
+
+2017-10-16 19:58:15,156 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main
+                
+Blas vendor: [OPENBLAS]
+
+2017-10-16 19:58:18,438 - [INFO] - from org.deeplearning4j.nn.multilayer.MultiLayerNetwork in main
+                
+Starting MultiLayerNetwork with WorkspaceModes set to [training: NONE; inference: SEPARATE]
+
+2017-10-16 19:58:19,610 - [INFO] - from org.deeplearning4j.ui.play.PlayUIServer in main
+                
+DL4J UI Server started at http://localhost:9000
+
+2017-10-16 19:58:19,617 - [INFO] - from org.deeplearning4j.ui.play.PlayUIServer in main
+                
+StatsStorage instance attached to UI: InMemoryStatsStorage(uid=50c2c714)
+
+2017-10-16 20:00:56,519 - [INFO] - from org.nd4j.linalg.factory.Nd4jBackend in main
+                
+Loaded [CpuBackend] backend
+
+2017-10-16 20:00:56,905 - [INFO] - from org.nd4j.nativeblas.NativeOpsHolder in main
+                
+Number of threads used for NativeOps: 4
+
+2017-10-16 20:00:57,150 - [INFO] - from org.nd4j.nativeblas.Nd4jBlas in main
+                
+Number of threads used for BLAS: 4
+
+2017-10-16 20:00:57,165 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main
+                
+Backend used: [CPU]; OS: [Windows 10]
+
+2017-10-16 20:00:57,165 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main
+                
+Cores: [8]; Memory: [1.8GB];
+
+2017-10-16 20:00:57,165 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main
+                
+Blas vendor: [OPENBLAS]
+
+2017-10-16 20:01:00,509 - [INFO] - from org.deeplearning4j.nn.multilayer.MultiLayerNetwork in main
+                
+Starting MultiLayerNetwork with WorkspaceModes set to [training: NONE; inference: SEPARATE]
+
+2017-10-16 20:01:01,718 - [INFO] - from org.deeplearning4j.ui.play.PlayUIServer in main
+                
+DL4J UI Server started at http://localhost:9000
+
+2017-10-16 20:01:01,723 - [INFO] - from org.deeplearning4j.ui.play.PlayUIServer in main
+                
+StatsStorage instance attached to UI: InMemoryStatsStorage(uid=eccada68)
+
+2017-10-16 20:01:16,112 - [INFO] - from org.nd4j.linalg.factory.Nd4jBackend in main
+                
+Loaded [CpuBackend] backend
+
+2017-10-16 20:01:16,472 - [INFO] - from org.nd4j.nativeblas.NativeOpsHolder in main
+                
+Number of threads used for NativeOps: 4
+
+2017-10-16 20:01:16,718 - [INFO] - from org.nd4j.nativeblas.Nd4jBlas in main
+                
+Number of threads used for BLAS: 4
+
+2017-10-16 20:01:16,721 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main
+                
+Backend used: [CPU]; OS: [Windows 10]
+
+2017-10-16 20:01:16,721 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main
+                
+Cores: [8]; Memory: [1.8GB];
+
+2017-10-16 20:01:16,721 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main
+                
+Blas vendor: [OPENBLAS]
+
+2017-10-16 20:01:20,121 - [INFO] - from org.deeplearning4j.nn.multilayer.MultiLayerNetwork in main
+                
+Starting MultiLayerNetwork with WorkspaceModes set to [training: NONE; inference: SEPARATE]
+
+2017-10-16 20:01:21,371 - [INFO] - from org.deeplearning4j.ui.play.PlayUIServer in main
+                
+DL4J UI Server started at http://localhost:9000
+
+2017-10-16 20:01:21,380 - [INFO] - from org.deeplearning4j.ui.play.PlayUIServer in main
+                
+StatsStorage instance attached to UI: InMemoryStatsStorage(uid=f1bc1c38)
+
+2017-10-16 20:01:39,883 - [INFO] - from org.nd4j.linalg.factory.Nd4jBackend in main
+                
+Loaded [CpuBackend] backend
+
+2017-10-16 20:01:40,305 - [INFO] - from org.nd4j.nativeblas.NativeOpsHolder in main
+                
+Number of threads used for NativeOps: 4
+
+2017-10-16 20:01:40,565 - [INFO] - from org.nd4j.nativeblas.Nd4jBlas in main
+                
+Number of threads used for BLAS: 4
+
+2017-10-16 20:01:40,565 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main
+                
+Backend used: [CPU]; OS: [Windows 10]
+
+2017-10-16 20:01:40,565 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main
+                
+Cores: [8]; Memory: [1.8GB];
+
+2017-10-16 20:01:40,565 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main
+                
+Blas vendor: [OPENBLAS]
+
+2017-10-16 20:01:43,877 - [INFO] - from org.deeplearning4j.nn.multilayer.MultiLayerNetwork in main
+                
+Starting MultiLayerNetwork with WorkspaceModes set to [training: NONE; inference: SEPARATE]
+
+2017-10-16 20:01:45,093 - [INFO] - from org.deeplearning4j.ui.play.PlayUIServer in main
+                
+DL4J UI Server started at http://localhost:9000
+
+2017-10-16 20:01:45,101 - [INFO] - from org.deeplearning4j.ui.play.PlayUIServer in main
+                
+StatsStorage instance attached to UI: InMemoryStatsStorage(uid=edb1366e)
+
+2017-10-16 20:02:51,638 - [INFO] - from org.nd4j.linalg.factory.Nd4jBackend in main
+                
+Loaded [CpuBackend] backend
+
+2017-10-16 20:02:52,009 - [INFO] - from org.nd4j.nativeblas.NativeOpsHolder in main
+                
+Number of threads used for NativeOps: 4
+
+2017-10-16 20:02:52,264 - [INFO] - from org.nd4j.nativeblas.Nd4jBlas in main
+                
+Number of threads used for BLAS: 4
+
+2017-10-16 20:02:52,264 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main
+                
+Backend used: [CPU]; OS: [Windows 10]
+
+2017-10-16 20:02:52,264 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main
+                
+Cores: [8]; Memory: [1.8GB];
+
+2017-10-16 20:02:52,264 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main
+                
+Blas vendor: [OPENBLAS]
+
+2017-10-16 20:02:55,556 - [INFO] - from org.deeplearning4j.nn.multilayer.MultiLayerNetwork in main
+                
+Starting MultiLayerNetwork with WorkspaceModes set to [training: NONE; inference: SEPARATE]
+
+2017-10-16 20:02:56,765 - [INFO] - from org.deeplearning4j.ui.play.PlayUIServer in main
+                
+DL4J UI Server started at http://localhost:9000
+
+2017-10-16 20:02:56,783 - [INFO] - from org.deeplearning4j.ui.play.PlayUIServer in main
+                
+StatsStorage instance attached to UI: InMemoryStatsStorage(uid=d99995d1)
+
+2017-10-16 20:03:37,765 - [INFO] - from org.nd4j.linalg.factory.Nd4jBackend in main
+                
+Loaded [CpuBackend] backend
+
+2017-10-16 20:03:38,129 - [INFO] - from org.nd4j.nativeblas.NativeOpsHolder in main
+                
+Number of threads used for NativeOps: 4
+
+2017-10-16 20:03:38,363 - [INFO] - from org.nd4j.nativeblas.Nd4jBlas in main
+                
+Number of threads used for BLAS: 4
+
+2017-10-16 20:03:38,363 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main
+                
+Backend used: [CPU]; OS: [Windows 10]
+
+2017-10-16 20:03:38,363 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main
+                
+Cores: [8]; Memory: [1.8GB];
+
+2017-10-16 20:03:38,363 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main
+                
+Blas vendor: [OPENBLAS]
+
+2017-10-16 20:03:41,490 - [INFO] - from org.deeplearning4j.nn.multilayer.MultiLayerNetwork in main
+                
+Starting MultiLayerNetwork with WorkspaceModes set to [training: NONE; inference: SEPARATE]
+
+2017-10-16 20:03:42,614 - [INFO] - from org.deeplearning4j.ui.play.PlayUIServer in main
+                
+DL4J UI Server started at http://localhost:9000
+
+2017-10-16 20:03:42,622 - [INFO] - from org.deeplearning4j.ui.play.PlayUIServer in main
+                
+StatsStorage instance attached to UI: InMemoryStatsStorage(uid=80178659)
+
+2017-10-16 20:04:40,196 - [INFO] - from org.nd4j.linalg.factory.Nd4jBackend in main
+                
+Loaded [CpuBackend] backend
+
+2017-10-16 20:04:40,566 - [INFO] - from org.nd4j.nativeblas.NativeOpsHolder in main
+                
+Number of threads used for NativeOps: 4
+
+2017-10-16 20:04:40,780 - [INFO] - from org.nd4j.nativeblas.Nd4jBlas in main
+                
+Number of threads used for BLAS: 4
+
+2017-10-16 20:04:40,796 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main
+                
+Backend used: [CPU]; OS: [Windows 10]
+
+2017-10-16 20:04:40,796 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main
+                
+Cores: [8]; Memory: [6.1GB];
+
+2017-10-16 20:04:40,796 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main
+                
+Blas vendor: [OPENBLAS]
+
+2017-10-16 20:04:44,129 - [INFO] - from org.deeplearning4j.nn.multilayer.MultiLayerNetwork in main
+                
+Starting MultiLayerNetwork with WorkspaceModes set to [training: NONE; inference: SEPARATE]
+
+2017-10-16 20:04:45,371 - [INFO] - from org.deeplearning4j.ui.play.PlayUIServer in main
+                
+DL4J UI Server started at http://localhost:9000
+
+2017-10-16 20:04:45,378 - [INFO] - from org.deeplearning4j.ui.play.PlayUIServer in main
+                
+StatsStorage instance attached to UI: InMemoryStatsStorage(uid=bfd978c6)
+

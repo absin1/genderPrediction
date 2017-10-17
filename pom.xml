@@ -1,0 +1,99 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>aa</groupId>
+	<artifactId>bb</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
+
+	<name>bb</name>
+	<url>http://maven.apache.org</url>
+
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	</properties>
+
+	<dependencies>
+		<!-- ND4J backend. You need one in every DL4J project. Normally define 
+			artifactId as either "nd4j-native-platform" or "nd4j-cuda-7.5-platform" -->
+		<!-- https://mvnrepository.com/artifact/org.nd4j/nd4j-backend-impls -->
+		<dependency>
+			<groupId>org.nd4j</groupId>
+			<artifactId>nd4j-backend-impls</artifactId>
+			<version>0.9.1</version>
+			<type>pom</type>
+		</dependency>
+		<dependency>
+			<groupId>org.nd4j</groupId>
+			<artifactId>nd4j-native-platform</artifactId>
+			<version>0.9.1</version>
+		</dependency>
+		
+
+		<!-- Core DL4J functionality -->
+
+		<!-- https://mvnrepository.com/artifact/org.deeplearning4j/deeplearning4j-core -->
+		<dependency>
+			<groupId>org.deeplearning4j</groupId>
+			<artifactId>deeplearning4j-core</artifactId>
+			<version>0.9.1</version>
+		</dependency>
+
+
+		<!-- deeplearning4j-ui is used for HistogramIterationListener + visualization: 
+			see http://deeplearning4j.org/visualization -->
+		<!-- https://mvnrepository.com/artifact/org.deeplearning4j/deeplearning4j-ui-model -->
+		<dependency>
+			<groupId>org.deeplearning4j</groupId>
+			<artifactId>deeplearning4j-ui-model</artifactId>
+			<version>0.9.1</version>
+		</dependency>
+
+		<!-- ParallelWrapper & ParallelInference live here -->
+		<!-- https://mvnrepository.com/artifact/org.deeplearning4j/deeplearning4j-parallel-wrapper_2.11 -->
+		<dependency>
+			<groupId>org.deeplearning4j</groupId>
+			<artifactId>deeplearning4j-parallel-wrapper_2.11</artifactId>
+			<version>0.9.1</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/org.deeplearning4j/deeplearning4j-nlp -->
+		<dependency>
+			<groupId>org.deeplearning4j</groupId>
+			<artifactId>deeplearning4j-nlp</artifactId>
+			<version>0.9.1</version>
+		</dependency>
+
+
+		<!-- Arbiter - used for hyperparameter optimization (grid/random search) -->
+		<!-- https://mvnrepository.com/artifact/org.deeplearning4j/arbiter-deeplearning4j -->
+		<dependency>
+			<groupId>org.deeplearning4j</groupId>
+			<artifactId>arbiter-deeplearning4j</artifactId>
+			<version>0.9.1</version>
+		</dependency>
+
+
+		<dependency>
+			<artifactId>datavec-data-codec</artifactId>
+			<groupId>org.datavec</groupId>
+			<version>0.9.1</version>
+		</dependency>
+		<dependency>
+			<groupId>org.deeplearning4j</groupId>
+			<artifactId>deeplearning4j-ui-model</artifactId>
+			<version>0.9.1</version>
+		</dependency>
+
+		<!-- Used in the feedforward/classification/MLP* and feedforward/regression/RegressionMathFunctions 
+			example <dependency> <groupId>jfree</groupId> <artifactId>jfreechart</artifactId> 
+			<version>${jfreechart.version}</version> </dependency> <dependency> <groupId>org.jfree</groupId> 
+			<artifactId>jcommon</artifactId> <version>${jcommon.version}</version> </dependency> 
+			Used for downloading data in some of the examples <dependency> <groupId>org.apache.httpcomponents</groupId> 
+			<artifactId>httpclient</artifactId> <version>4.3.5</version> </dependency> 
+			<dependency> <groupId>ch.qos.logback</groupId> <artifactId>logback-classic</artifactId> 
+			<version>${logback.version}</version> </dependency> -->
+
+	</dependencies>
+</project>
